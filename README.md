@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RESTful Service  
 REST (REpresentational State Transfer) is an architectural style for developing web services. It defines a set of constraints and properties based on HTTP. 
 
@@ -691,5 +692,3 @@ $ docker run -v {SAMPLE_ROOT}/filbeat/filebeat.yml:/usr/share/filebeat/filebeat.
 ```
    http://localhost:5601 
 ```
-  
- 
