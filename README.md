@@ -1,4 +1,16 @@
-<<<<<<< HEAD
+# Setup  service
+
+- Setup [Ballerina Distribution](https://ballerina.io/learn/getting-started/)
+- `git clone https://github.com/ShanikaEdiriweera/ballerina-sample-service.git`
+- `cd ballerina-sample-service/guide`
+- `ballerina run restful_service`
+
+# Resource Endpoints
+
+- `http://localhost:9090/companies/John-and-Brothers-(pvt)-Ltd`
+- `http://localhost:9090/companies/ABC-Company`
+- `http://localhost:9090/companies/Smart-Automobile`
+
 # RESTful Service  
 REST (REpresentational State Transfer) is an architectural style for developing web services. It defines a set of constraints and properties based on HTTP. 
 
